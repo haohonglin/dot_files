@@ -1,1 +1,3 @@
 # My dot files
+
+* vim
